@@ -6,7 +6,7 @@ Inspired by the following program:
 - Intro: The Core Infrastructure Initiative (CII) Best Practices Program is a free program designed with the open source community with criteria that evolves to allow for compensating controls rather than a strict mechanical process.
 - Link: https://www.coreinfrastructure.org/programs/best-practices-program/
 
-**2. Security Scorecards**
+**2. Security Scorecards: - Security health metrics for Open Source**
 - Intro: Scorecards is an automated tool that assesses a number of important heuristics ("checks") associated with software security and assigns each check a score of 0-10. You can use these scores to understand specific areas to improve in order to strengthen the security posture of your project. You can also assess the risks that dependencies introduce, and make informed decisions about accepting these risks, evaluating alternative solutions, or working with the maintainers to make improvements.
 - Link: https://github.com/ossf/scorecard
 
