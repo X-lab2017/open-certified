@@ -1,6 +1,8 @@
 # OpenCertified
 
-Inspired by the following program:
+Open source project for open source governance.
+
+Inspired by the following projects and programs:
 
 **1. Core Infrastructure Initiative (CII) Best Practices Badge Program**
 - Intro: The Core Infrastructure Initiative (CII) Best Practices Program is a free program designed with the open source community with criteria that evolves to allow for compensating controls rather than a strict mechanical process.
@@ -13,4 +15,8 @@ Inspired by the following program:
 **3. SLSA: Supply chain Levels for Software Artifacts**
 - Intro: It’s a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises. It’s how you get from safe enough to being as resilient as possible, at any link in the chain.
 - Link: https://slsa.dev/
+
+**4. CHAOSS: Community Health Analytics Open Source Software**
+- Intro: In CHAOSS, we help people better understand the health of the open source communities that they care about. As open source is now a critical part in nearly everything we do, understanding the health of open source communities is really important.
+- Link: https://chaoss.community/
 
