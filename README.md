@@ -1,6 +1,6 @@
 # OpenCertified
 
-Open source project for open source governance.
+Open source toolsets for open source community governance evaluation and certification. We want to build framework, checklist, knowledge and automotive toolsets for open source communities governance. 
 
 Inspired by the following projects and programs:
 
